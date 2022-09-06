@@ -20,13 +20,13 @@ Election Results
 -------------------------
 Total Votes: 369,711
 -------------------------
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+- Charles Casper Stockham: 23.0% (85,213) 
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
 -------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
+- Winner: Diana DeGette
+- Winning Vote Count: 272,892
+- Winning Percentage: 73.8%
 -------------------------
 
 
@@ -80,16 +80,16 @@ Election Results by County
 
 ![Election Results](Resources/Election_Results.png)
 
-County Votes:
+### County Votes:
 
-Jefferson: 10.5% (38,855)
+#### Jefferson: 10.5% (38,855)
 
-Denver: 82.8% (306,055)
+#### Denver: 82.8% (306,055)
 
-Arapahoe: 6.7% (24,801)
+#### Arapahoe: 6.7% (24,801)
 
 -------------------------
-Largest County Turnout: Denver
+#### Largest County Turnout: Denver
 -------------------------
 
 ## Challenge Summary
@@ -98,15 +98,12 @@ This was a very good exercise to learn basics of python coding. I was able to de
 
 Coming to the problem, Here are the observations:
 
-
-## Challenge Summary
-
-Denver county recorded the largest turnout, at 82.8% (306, 055) votes. Araphoe county recorded lowest count, at 6.7% (24,801)
+- Denver county recorded the largest turnout, at 82.8% (306, 055) votes. Araphoe county recorded lowest count, at 6.7% (24,801)
 
 - The election was performed in a precinct with 3 counties, Jefferson, Denver and Apharoe. Based on the dataset, the largest voting turnout was recorded in Denver county and the lowest was in Araphoe county.
-- 3 Candidates stood in the election and Diana DeGette won the election with 73.8% votes. She got 272, 892 votes out of the total 369, 711 votes that were cast. 
+- 3 Candidates stood in the election and Diana DeGette won the election with 73.8% votes. She got 272,892 votes out of the total 369,711 votes that were cast. 
 
-Overall, this script can be used for any election analysis where there is data on participating candidates and counties in elections. This script can be modified a bit and can be used for the following scenarios as well:
+_Overall, this script can be used for any election analysis where there is data on participating candidates and counties in elections. This script can be modified a bit and can be used for the following scenarios as well:_
 
 - Analyzing percentage voting based on the population of the county. For example, Araphoe county recorded lowest turnout, but the number of people in this county is not known. May be the county has 25k population and most of them cast their vote. Has the committee captured this information of the number of eligible voters, it would have changed the analysis results.
 - Another way this script could have been reused is to calculate the % votes for a candidate in each county. This could determine which candidate has the popular vote.
