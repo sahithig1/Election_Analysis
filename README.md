@@ -16,6 +16,7 @@ A Colorado board of elections employee has given you the following tasks to comp
 
 ## Summary
 
+<<<<<<< HEAD
 Election Results
 -------------------------
 Total Votes: 369,711
@@ -30,6 +31,8 @@ Winning Percentage: 73.8%
 -------------------------
 
 
+=======
+>>>>>>> e53e1e0e32df2b75df2b5a5f37be30fdab5710f6
 The analysis of the election show that:
 - There were 369,711 votes cast in the election
 - The candidates were:
@@ -48,6 +51,7 @@ The analysis of the election show that:
 
 ## Challenge Overview
 
+<<<<<<< HEAD
 After reviweing the results that were provided by analyzing election results by candidate, the election commission has requested to analyze election results by county. In this analysis, we will:
 
 1. Calculate coter turnout for each county
@@ -81,4 +85,7 @@ Winning Percentage: 73.8%
 
 
 
+
+=======
+## Challenge Summary
 
