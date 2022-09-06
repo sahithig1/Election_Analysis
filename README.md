@@ -77,7 +77,8 @@ Election Results by County
 - Winning Percentage: 73.8%
 -------------------------
 
-![Election Results](Resources/ElectionResults.png)
+
+![Election Results](Resources/Election_Results.png)
 
 County Votes:
 
