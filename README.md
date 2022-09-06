@@ -16,7 +16,6 @@ A Colorado board of elections employee has given you the following tasks to comp
 
 ## Summary
 
-<<<<<<< HEAD
 Election Results
 -------------------------
 Total Votes: 369,711
@@ -31,8 +30,6 @@ Winning Percentage: 73.8%
 -------------------------
 
 
-=======
->>>>>>> e53e1e0e32df2b75df2b5a5f37be30fdab5710f6
 The analysis of the election show that:
 - There were 369,711 votes cast in the election
 - The candidates were:
@@ -51,10 +48,9 @@ The analysis of the election show that:
 
 ## Challenge Overview
 
-<<<<<<< HEAD
 After reviweing the results that were provided by analyzing election results by candidate, the election commission has requested to analyze election results by county. In this analysis, we will:
 
-1. Calculate coter turnout for each county
+1. Calculate voter turnout for each county
 2. The percentage of votes from each county out of the total count
 3. The county with the highest turnout
 
@@ -81,11 +77,39 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
 
+![Election Results Analysys](Election Results.png)
 
+County Votes:
 
+Jefferson: 10.5% (38,855)
 
+Denver: 82.8% (306,055)
 
+Arapahoe: 6.7% (24,801)
+
+-------------------------
+Largest County Turnout: Denver
+-------------------------
 
 =======
 ## Challenge Summary
+
+This was a very good exercise to learn basics of python coding. I was able to develop design and coding patterns during the lesson and re-use the same principles during the challenge. Using iterative loops such as for and if to calculate votes by candidate and county was fun! I also got a chance to open and read a file and to write output to a file, all from my python script. I liked the way the 'with' statement combines both open and close methods in a single statement. 
+
+Coming to the problem, Here are the observations:
+
+
+## Challenge Summary
+
+Denver county recorded the largest turnout, at 82.8% (306, 055) votes. Araphoe county recorded lowest count, at 6.7% (24,801)
+
+- The election was performed in a precinct with 3 counties, Jefferson, Denver and Apharoe. Based on the dataset, the largest voting turnout was recorded in Denver county and the lowest was in Araphoe county.
+- 3 Candidates stood in the election and Diana DeGette won the election with 73.8% votes. She got 272, 892 votes out of the total 369, 711 votes that were cast. 
+
+Overall, this script can be used for any election analysis where there is data on participating candidates and counties in elections. This script can be modified a bit and can be used for the following scenarios as well:
+
+- Analyzing percentage voting based on the population of the county. For example, Araphoe county recorded lowest turnout, but the number of people in this county is not known. May be the county has 25k population and most of them cast their vote. Has the committee captured this information of the number of eligible voters, it would have changed the analysis results.
+- Another way this script could have been reused is to calculate the % votes for a candidate in each county. This could determine which candidate has the popular vote.
+
+
 
