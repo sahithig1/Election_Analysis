@@ -68,16 +68,16 @@ Denver county recorded the largest turnout, at 82.8% (306, 055) votes. Araphoe c
 Election Results by County
 -------------------------
 
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+- Charles Casper Stockham: 23.0% (85,213)<p>
+- Diana DeGette: 73.8% (272,892)<p>
+- Raymon Anthony Doane: 3.1% (11,606)
 -------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 73.8%
+- Winner: Diana DeGette
+- Winning Vote Count: 272,892
+- Winning Percentage: 73.8%
 -------------------------
 
-![Election Results Analysys](Election Results.png)
+![Election Results](Resources/ElectionResults.png)
 
 County Votes:
 
@@ -91,7 +91,6 @@ Arapahoe: 6.7% (24,801)
 Largest County Turnout: Denver
 -------------------------
 
-=======
 ## Challenge Summary
 
 This was a very good exercise to learn basics of python coding. I was able to develop design and coding patterns during the lesson and re-use the same principles during the challenge. Using iterative loops such as for and if to calculate votes by candidate and county was fun! I also got a chance to open and read a file and to write output to a file, all from my python script. I liked the way the 'with' statement combines both open and close methods in a single statement. 
